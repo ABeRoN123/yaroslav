@@ -46,5 +46,13 @@ Imported 2026-10-23 from the claude.ai project "Юруб", where episodes 1–5 
     - Short descriptions include "Full story: <link>";
     - update the status doc.
 
+## Motion and QA ideas (digest of the vizavi_motion skill, 2026-10-23; not installed)
+- Title/chapter/end cards: animate the type itself (letters/words move with weight and ease), not just a fade-in.
+- Cut on musical accents: tie some transitions and key actions to beats or SFX hits, not every beat.
+- Keep gentle camera drift (slow push/pan with parallax) on static doodle frames; avoid a single flat linear zoom.
+- Add SFX (whoosh, paper, pop) under transitions; music + VO mix must stay readable.
+- Export check: watch the decoded final MP4 (start, end, every scene boundary) and listen to the full mix before calling it done.
+- Do not use the "3-5 variants per scene" rule: too token-heavy for our long videos.
+
 ## Visual style
 See channel/style-guide.md.
