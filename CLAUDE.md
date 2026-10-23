@@ -22,3 +22,37 @@ Made to Want — doodle video essays on how marketing invented our desires. Titl
 
 ## End of every session
 Update videos/NN-slug/status.md (what's done, links, TODO) and calendar/content-plan.md, then commit.
+
+## Reply format (markers + model hint)
+Start lines that matter with a colored marker. The owner skims on his phone, so the color tells him where to look:
+- 🔴 needs HIS decision or is risky: publishing, deleting, paying or spending many credits, something broke
+- 🟡 check with your eyes: frames, timing, shaky facts, anything I'm not sure about
+- 🟢 done and verified
+- 🔵 info, can be skipped
+- 🟣 new: first time we do this (new tool, new trick, new format)
+- 💰 cost: tokens, Flow or ElevenLabs credits spent or about to be spent
+- 💡 tip: model or economy advice
+Use at most one marker per line and don't color everything. Most replies need only 2–5 markers.
+
+When a new task starts (or the task type changes), the first line is a model hint, e.g.
+`💡 Модель: Sonnet 5.5 · средний — рутина в браузере`. Pick from docs/economy.md → "Which model". If the current model is fine, write `💡 Модель ок`.
+If the session is getting long (many screenshots, >~30 messages, or the task is done), end with
+`💡 Пора /compact или новая сессия` and make sure status.md is updated first.
+
+## Connector checklist (before each task)
+Right after the model hint, show a small table of connectors for THIS task so the owner can tick them in settings. Take it from docs/economy.md → "Which connectors". Format:
+
+| Коннектор | Сейчас |
+|---|---|
+| Claude in Chrome | ✅ включить |
+| vidIQ | ⛔ выключить |
+
+List only connectors whose state should CHANGE compared to the previous task. If nothing changes, write `🔌 Коннекторы: без изменений`. If a needed connector is missing or not authorized, say so with 🔴.
+
+## Suggest new connectors, skills, GitHub repos (owner decides)
+When a real need shows up (the same manual work repeated, a new production stage, a new platform, a channel milestone), suggest a tool that would help, marked 🟣. Do NOT search on every task: check at most once per episode (at the end) or when the owner asks "что нового?". Show a small table:
+
+| Что | Тип | Зачем нам | Цена/риск | Ссылка |
+|---|---|---|---|---|
+
+Never install, connect or clone anything without his "да". Before suggesting a GitHub repo or skill, check: recent commits, stars/issues, license, and skim the code (skills can run commands; reject anything that asks for passwords/tokens or sends data elsewhere). Record every suggestion and his answer in docs/tools-wishlist.md and don't re-suggest declined ones. Details: docs/economy.md → "Growing the toolset".
