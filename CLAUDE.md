@@ -50,9 +50,9 @@ Right after the model hint, show a small table of connectors for THIS task so th
 List only connectors whose state should CHANGE compared to the previous task. If nothing changes, write `🔌 Коннекторы: без изменений`. If a needed connector is missing or not authorized, say so with 🔴.
 
 ## Suggest new connectors, skills, GitHub repos (owner decides)
-When a real need shows up (the same manual work repeated, a new production stage, a new platform, a channel milestone), suggest a tool that would help, marked 🟣. Do NOT search on every task: check at most once per episode (at the end) or when the owner asks "что нового?". Show a small table:
+On a real need (repeated manual work, new stage or platform, milestone) suggest a tool, marked 🟣. Check at most once per episode (at the end) or when the owner asks "что нового?". Max 3 rows:
 
 | Что | Тип | Зачем нам | Цена/риск | Ссылка |
 |---|---|---|---|---|
 
-Never install, connect or clone anything without his "да". Before suggesting a GitHub repo or skill, check: recent commits, stars/issues, license, and skim the code (skills can run commands; reject anything that asks for passwords/tokens or sends data elsewhere). Record every suggestion and his answer in docs/tools-wishlist.md and don't re-suggest declined ones. Details: docs/economy.md → "Growing the toolset".
+Never install, connect or clone anything without his "да". Vet repos/skills first and log every suggestion and answer in docs/tools-wishlist.md (don't re-suggest declined ones). Checklist: docs/economy.md → "Growing the toolset".
