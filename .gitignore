@@ -1,0 +1,19 @@
+# Тяжёлые медиафайлы — храним вне Git
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.aiff
+*.prproj
+*.drp
+*.aep
+renders/
+raw/
+footage/
+
+# Системное
+.DS_Store
+Thumbs.db
+*.tmp
+.env
