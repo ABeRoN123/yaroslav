@@ -14,7 +14,7 @@ Imported 2026-10-23 from the claude.ai project "Юруб", where episodes 1–5 
 - Title pattern: "The ___ You Were Told to ___".
 - Long videos run 5–10 min and must never go over 10. There are also ~5–6 Shorts per video.
 - Target pace: 3 long videos a week plus 1 Short a day (an aspiration; real pace is about one long video every 2–3 days).
-- **Shorts: one per day.** Latest slot chosen by the owner (22 Oct): **13:00 Warsaw** (ep5). Earlier batches: 16:00 (ep4), 19:00 (ep3), 17:00/18:00 before. Ask if unsure.
+- **Shorts: one per day.** Publish time is not fixed: the owner names it right before scheduling (past batches used different times). Ask, never assume.
 - Long videos go out when he says. His note: aim at a US audience, 11:00–14:00 New York (≈17:00–20:00 Warsaw).
 
 ## Tools and accounts he uses

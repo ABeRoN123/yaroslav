@@ -27,7 +27,7 @@ GitHub (the repo) stays connected always. "PC link" = the session is linked to h
 1. One task = one session. Finish → update videos/NN/status.md → commit → close. A new session reads CLAUDE.md + status.md and continues.
 2. Every message re-reads the whole chat, so long chats get more expensive with each message. Use /compact or start fresh.
 3. Turn off MCP connectors you don't need right now (vidIQ, Docs, …); enable them only for that task. Each connector costs tokens on EVERY message.
-4. Give concrete orders, not discussions: "Make 6 shorts for 06 from story.md, slot 13:00" instead of 10 back-and-forth messages.
+4. Give concrete orders, not discussions: "Make 6 shorts for 06 from story.md" instead of 10 back-and-forth messages.
 5. Don't paste big files or logs into the chat; let Claude read the file and reply with the conclusion.
 6. Screenshots are the most expensive thing. Prefer DOM/text checks; take a screenshot only to verify something visual.
 7. Browser stages (Flow, ElevenLabs, YouTube): do them as short separate sessions, one stage each.

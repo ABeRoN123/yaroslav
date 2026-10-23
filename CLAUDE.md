@@ -7,7 +7,7 @@ Keep this file short: it is loaded on every turn. Details live in docs/ and are 
 - Never delete videos/files, never create accounts or enter passwords. Retire videos as "Ограниченный доступ".
 
 ## Channel
-Made to Want — doodle video essays on how marketing invented our desires. Title "The ___ You Were Told to ___". Long 5–10 min (never >10), 5–6 Shorts per video (25–35 s), 1 Short/day at **13:00 Warsaw** (latest choice). Channel: https://www.youtube.com/channel/UCC972vQMbqKBQLeccmoYBOg
+Made to Want — doodle video essays on how marketing invented our desires. Title "The ___ You Were Told to ___". Long 5–10 min (never >10), 5–6 Shorts per video (25–35 s), about 1 Short/day; publish time is NOT fixed: the owner names it right before scheduling (ask, never assume or save it). Channel: https://www.youtube.com/channel/UCC972vQMbqKBQLeccmoYBOg
 
 ## Where things are
 - Rules + lessons: docs/rules.md · full pipeline: docs/pipeline_full.md (also the skill `made-to-want-video`)
