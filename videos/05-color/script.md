@@ -1,0 +1,49 @@
+# EP05 — The Color You Were Told to Wear
+
+Target 7–8 min. One section = one VO chapter file (put each on ONE line in ElevenLabs).
+
+---
+
+## 1. Hook
+
+In nineteen eighteen, a magazine for baby stores gave parents a simple rule: pink is for boys. Blue is for girls. It wasn't a joke, and it wasn't a mistake. It was the advice of the day, printed for the people who sold baby clothes. So how did the color for boys become the color for girls in just a few decades? And who decided that a newborn needs a color at all?
+
+## 2. Title
+
+The Color You Were Told to Wear.
+
+## 3. Everyone in white
+
+Go back to the eighteen hundreds and look at a family photo. Every small child is in a white dress. The girls, yes. The boys too. There's a famous photo of a two year old Franklin Roosevelt in a white dress, long hair, and a feathered hat, and in his time nobody would have blinked. White was practical. Babies are messy, and white cotton could be boiled and bleached until it looked new again. A dress was easy to change, easy to let out as the child grew, and easy to pass down from one child to the next, no matter who came next. Boys only got their first trousers at around six or seven. It was a big day, almost a ceremony, with a haircut and a new suit. Until then, a baby was just a baby. Pastel colors did show up in the middle of the century, pink and blue among them. But they were decoration, not a rule. A little pink ribbon said nothing about who was wearing it.
+
+## 4. Pink is for boys
+
+Then, in June nineteen eighteen, a trade magazine called Infant's Department told store owners what the accepted rule was. Pink for the boy, blue for the girl. And it gave a reason. Pink, it said, is a more decided and stronger color, so it suits a boy. Blue is more delicate and dainty, so it's prettier for a girl. Think about that. The same logic people use today, strong versus delicate, was used to argue the exact opposite. Pink was seen as a lighter shade of red, the color of soldiers' coats and fighting spirit. Blue, some said, was the color of calm and of the Virgin Mary. The colors didn't carry meaning. The meaning was attached to them, by whoever was selling.
+
+## 5. Nobody agreed
+
+And sellers did not agree. In nineteen twenty seven, Time magazine asked the biggest department stores in America which color was for which child. Filene's in Boston said pink for boys. So did Marshall Field's in Chicago, Best and Company in New York, and Halle Brothers in Cleveland. Other stores said the opposite. Imagine being a new parent in nineteen twenty seven. You buy a pink outfit for your son in Chicago, visit your sister in another city, and her local store tells you that you got it backwards. Historians still argue about how common each version was. One study of old newspapers found both versions printed side by side for decades. The honest answer is that there was no rule. There were stores, and each store had a guess.
+
+## 6. The rule arrives
+
+Somewhere in the middle of the twentieth century, the guesses settled. Pink went to girls. Blue went to boys. No law was passed. No scientist proved anything. Manufacturers and stores simply kept repeating the same pairing until it felt like nature. In the nineteen fifties, pink became the color of grown up femininity too. When Mamie Eisenhower wore a pink gown to her husband's inauguration in nineteen fifty three, the press loved it, and soon there were pink kitchens, pink bathrooms, and pink appliances in American homes. The baby boom generation grew up color coded from the crib. Boys in blue, girls in pink, and every relative knew exactly what gift to bring.
+
+## 7. The pause
+
+Then something strange happened. In the late sixties and seventies, many parents rejected it. The women's movement pushed back against the idea that girls had to look soft and sweet. Unisex clothes took over. Overalls, stripes, red, yellow, green. Reportedly, for two whole years in the seventies, the Sears catalog didn't show a single pink toddler outfit. For a moment, it looked like the rule was dying, and that kids might go back to being just kids.
+
+## 8. The sonogram sale
+
+It wasn't dying. In the nineteen eighties, prenatal tests became common, and parents could learn whether it was a boy or a girl months before the birth. That gave stores something new to sell: time. Now you could shop for a specific kind of baby before it arrived. And the industry noticed. Neutral clothes started to disappear. A plain blue romper suddenly had a little football on it. A plain pink one got a bow and a kitten. And pink spread far beyond clothes. Strollers. Car seats. Bottles. Bedding. Wallpaper. Historian Jo Paoletti put the logic in one line. The more you individualize clothing, the more you can sell.
+
+## 9. Pink everything
+
+By the two thousands, the split covered almost everything a child could touch. Toy stores had a pink aisle and a blue aisle. Building bricks got a separate pink line for girls. And it didn't stop at childhood. In twenty fifteen, a New York City study compared nearly eight hundred products sold in a men's and a women's version. On average, the women's version cost about seven percent more, often for the same item in a different color. People started calling it the pink tax. Then, in two thousand eight, an American mother cut into a cake at a party to reveal pink frosting inside, and posted about it online. The gender reveal party was born. Today it's a whole industry of balloons, smoke cannons and confetti, all built on one question: pink or blue?
+
+## 10. Why it still works
+
+Here's the quiet genius of it. A white dress could go from a big sister to a little brother. A pink stroller can't. Not easily, anyway. Most parents feel a small pinch of awkwardness pushing their son in something bright pink, and that small pinch is enough. A second child of the other sex now means a second set of everything. Nobody ever told you to buy twice. They just painted the first set a color that made reusing it feel wrong. And the rule teaches itself. Kids learn it from the aisles, from the gifts, from the cake. By the age of four, many of them will police it for you. Every time a store builds a pink aisle and a blue aisle, the rule gets taught again, to a new set of parents who think they're choosing freely.
+
+## 11. Ending
+
+A hundred years ago, a magazine told parents that pink was strong enough for a boy. Today, the same color is supposed to be too soft for him. The color never changed. Only the story around it did. So the next time someone asks, is it a boy or a girl, notice what the question really means: which aisle are we shopping in? Made to Want.

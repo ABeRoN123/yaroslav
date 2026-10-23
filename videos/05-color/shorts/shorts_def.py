@@ -1,0 +1,60 @@
+SH=[
+("IN 1918, PINK|WAS FOR BOYS","pink_for_boys",[
+ ("In 1918, a magazine for baby stores said: pink is for boys, blue is for girls.",1),
+ ("And it gave a reason.",28),
+ ("Pink is a stronger, more decided color, so it suits a boy.",29),
+ ("Blue is delicate and dainty, so it's prettier for a girl.",30),
+ ("The same logic we use today, used for the exact opposite.",32),
+ ("The colors never meant anything.",35),
+ ("The meaning was attached by whoever was selling.",36),
+ ("Made to Want.",120)]),
+("LITTLE BOYS USED TO|WEAR WHITE DRESSES","boys_in_dresses",[
+ ("Until about a hundred years ago, little boys wore white dresses.",12),
+ ("Look at any family photo from the 1800s. Every small child is in white.",10),
+ ("There's a famous photo of two-year-old Franklin Roosevelt in a white dress, with long hair.",13),
+ ("White was practical. You could boil it and bleach it,",17),
+ ("and pass it down to the next child, boy or girl.",19),
+ ("Boys got their first trousers at six or seven, with a haircut. Almost a ceremony.",21),
+ ("Until then, a baby was just a baby.",22),
+ ("Made to Want.",120)]),
+("STORES COULDN'T AGREE|ON PINK OR BLUE","stores_disagreed",[
+ ("In 1927, Time magazine asked America's biggest stores: which color is for boys?",38),
+ ("Filene's in Boston said pink.",39),
+ ("So did Marshall Field's in Chicago.",40),
+ ("Other stores said the opposite.",41),
+ ("So you buy a pink outfit for your son in Chicago,",43),
+ ("and a store in another city tells you that you got it backwards.",45),
+ ("There was no rule. Just stores, and each store had a guess.",49),
+ ("Made to Want.",120)]),
+("PRENATAL TESTS MADE|BABY CLOTHES PINK & BLUE","prenatal_tests",[
+ ("Baby clothes split into pink and blue because of prenatal tests.",72),
+ ("In the 1970s, unisex clothes had almost won.",66),
+ ("Then, in the 1980s, parents could learn if it was a boy or a girl months before the birth.",73),
+ ("That gave stores something new to sell: time.",74),
+ ("Neutral clothes started to disappear.",78),
+ ("Blue got a football.",79),
+ ("Pink got a bow and a kitten.",80),
+ ("Then strollers, bottles, bedding, wallpaper.",83),
+ ("The more you split it, the more you can sell.",85),
+ ("Made to Want.",120)]),
+("THE PINK TAX|IS REAL","pink_tax",[
+ ("The pink version often costs more. It even has a name: the pink tax.",93),
+ ("In 2015, New York City compared nearly 800 products sold in a men's and a women's version.",90),
+ ("The women's version cost about seven percent more on average.",91),
+ ("Often it was the exact same item, just in a different color.",92),
+ ("And a pink stroller is hard to hand down to a little brother.",101),
+ ("So a lot of families end up buying everything twice.",105),
+ ("Made to Want.",120)]),
+("GENDER REVEAL PARTIES|STARTED IN 2008","gender_reveal",[
+ ("The gender reveal party is younger than the iPhone. It started in 2008.",96),
+ ("An American mother cut into a cake, and the inside was pink.",94),
+ ("She posted about it online.",95),
+ ("Now it's a whole industry of balloons, smoke cannons and confetti,",97),
+ ("all built on one question: pink or blue?",98),
+ ("A hundred years ago, the answer would have been backwards.",113),
+ ("In 1918, pink was for boys.",2),
+ ("Made to Want.",120)]),
+]
+if __name__=='__main__':
+    for t,s,segs in SH:
+        txt=' '.join(x for x,_ in segs); print(s,len(txt.split()),'words'); print(txt); print()

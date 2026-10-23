@@ -1,0 +1,842 @@
+[
+{
+"n": 1,
+"start": 0,
+"s0": 0,
+"s1": 4.81351,
+"text": "In nineteen eighteen, a magazine for baby stores gave parents a simple rule:"
+},
+{
+"n": 2,
+"start": 4.81351,
+"s0": 4.81351,
+"s1": 6.296950000000001,
+"text": "pink is for boys."
+},
+{
+"n": 3,
+"start": 6.296950000000001,
+"s0": 6.296950000000001,
+"s1": 8.049885,
+"text": "Blue is for girls."
+},
+{
+"n": 4,
+"start": 8.049885,
+"s0": 8.049885,
+"s1": 11.17605,
+"text": "It wasn't a joke, and it wasn't a mistake."
+},
+{
+"n": 5,
+"start": 11.17605,
+"s0": 11.17605,
+"s1": 15.677800000000001,
+"text": "It was the advice of the day, printed for the people who sold baby clothes."
+},
+{
+"n": 6,
+"start": 15.677800000000001,
+"s0": 15.677800000000001,
+"s1": 20.83495,
+"text": "So how did the color for boys become the color for girls in just a few decades?"
+},
+{
+"n": 7,
+"start": 20.83495,
+"s0": 20.83495,
+"s1": 23.95425,
+"text": "And who decided that a newborn needs a color at all?"
+},
+{
+"n": 8,
+"start": 24.55425,
+"s0": 24.55425,
+"s1": 26.59175,
+"text": "The Color You Were Told to Wear."
+},
+{
+"n": 9,
+"start": 27.19175,
+"s0": 27.19175,
+"s1": 30.587575,
+"text": "Go back to the eighteen hundreds and look at a family photo."
+},
+{
+"n": 10,
+"start": 30.587575,
+"s0": 30.587575,
+"s1": 33.396589999999996,
+"text": "Every small child is in a white dress."
+},
+{
+"n": 11,
+"start": 33.396589999999996,
+"s0": 33.396589999999996,
+"s1": 34.353359999999995,
+"text": "The girls, yes."
+},
+{
+"n": 12,
+"start": 34.353359999999995,
+"s0": 34.353359999999995,
+"s1": 35.14056,
+"text": "The boys too."
+},
+{
+"n": 13,
+"start": 35.14056,
+"s0": 35.14056,
+"s1": 42.45335,
+"text": "There's a famous photo of a two year old Franklin Roosevelt in a white dress, long hair, and a feathered hat,"
+},
+{
+"n": 14,
+"start": 42.45335,
+"s0": 42.45335,
+"s1": 45.1271,
+"text": "and in his time nobody would have blinked."
+},
+{
+"n": 15,
+"start": 45.1271,
+"s0": 45.1271,
+"s1": 46.78515,
+"text": "White was practical."
+},
+{
+"n": 16,
+"start": 46.78515,
+"s0": 46.78515,
+"s1": 48.00275,
+"text": "Babies are messy,"
+},
+{
+"n": 17,
+"start": 48.00275,
+"s0": 48.00275,
+"s1": 51.8459,
+"text": "and white cotton could be boiled and bleached until it looked new again."
+},
+{
+"n": 18,
+"start": 51.8459,
+"s0": 51.8459,
+"s1": 55.919599999999996,
+"text": "A dress was easy to change, easy to let out as the child grew,"
+},
+{
+"n": 19,
+"start": 55.919599999999996,
+"s0": 55.919599999999996,
+"s1": 60.541250000000005,
+"text": "and easy to pass down from one child to the next, no matter who came next."
+},
+{
+"n": 20,
+"start": 60.541250000000005,
+"s0": 60.541250000000005,
+"s1": 64.1662,
+"text": "Boys only got their first trousers at around six or seven."
+},
+{
+"n": 21,
+"start": 64.1662,
+"s0": 64.1662,
+"s1": 68.66655,
+"text": "It was a big day, almost a ceremony, with a haircut and a new suit."
+},
+{
+"n": 22,
+"start": 68.66655,
+"s0": 68.66655,
+"s1": 71.69345,
+"text": "Until then, a baby was just a baby."
+},
+{
+"n": 23,
+"start": 71.69345,
+"s0": 71.69345,
+"s1": 76.4808,
+"text": "Pastel colors did show up in the middle of the century, pink and blue among them."
+},
+{
+"n": 24,
+"start": 76.4808,
+"s0": 76.4808,
+"s1": 78.93455,
+"text": "But they were decoration, not a rule."
+},
+{
+"n": 25,
+"start": 78.93455,
+"s0": 78.93455,
+"s1": 82.101125,
+"text": "A little pink ribbon said nothing about who was wearing it."
+},
+{
+"n": 26,
+"start": 82.70112499999999,
+"s0": 82.70112499999999,
+"s1": 90.50999999999999,
+"text": "Then, in June nineteen eighteen, a trade magazine called Infant's Department told store owners what the accepted rule was."
+},
+{
+"n": 27,
+"start": 90.50999999999999,
+"s0": 90.50999999999999,
+"s1": 92.869215,
+"text": "Pink for the boy, blue for the girl."
+},
+{
+"n": 28,
+"start": 92.869215,
+"s0": 92.869215,
+"s1": 94.545875,
+"text": "And it gave a reason."
+},
+{
+"n": 29,
+"start": 94.545875,
+"s0": 94.545875,
+"s1": 99.80307499999999,
+"text": "Pink, it said, is a more decided and stronger color, so it suits a boy."
+},
+{
+"n": 30,
+"start": 99.80307499999999,
+"s0": 99.80307499999999,
+"s1": 104.131925,
+"text": "Blue is more delicate and dainty, so it's prettier for a girl."
+},
+{
+"n": 31,
+"start": 104.131925,
+"s0": 104.131925,
+"s1": 105.467075,
+"text": "Think about that."
+},
+{
+"n": 32,
+"start": 105.467075,
+"s0": 105.467075,
+"s1": 112.22587499999999,
+"text": "The same logic people use today, strong versus delicate, was used to argue the exact opposite."
+},
+{
+"n": 33,
+"start": 112.22587499999999,
+"s0": 112.22587499999999,
+"s1": 117.636175,
+"text": "Pink was seen as a lighter shade of red, the color of soldiers' coats and fighting spirit."
+},
+{
+"n": 34,
+"start": 117.636175,
+"s0": 117.636175,
+"s1": 122.43107499999999,
+"text": "Blue, some said, was the color of calm and of the Virgin Mary."
+},
+{
+"n": 35,
+"start": 122.43107499999999,
+"s0": 122.43107499999999,
+"s1": 124.654675,
+"text": "The colors didn't carry meaning."
+},
+{
+"n": 36,
+"start": 124.654675,
+"s0": 124.654675,
+"s1": 127.866813,
+"text": "The meaning was attached to them, by whoever was selling."
+},
+{
+"n": 37,
+"start": 128.466813,
+"s0": 128.466813,
+"s1": 130.519748,
+"text": "And sellers did not agree."
+},
+{
+"n": 38,
+"start": 130.519748,
+"s0": 130.519748,
+"s1": 137.503468,
+"text": "In nineteen twenty seven, Time magazine asked the biggest department stores in America which color was for which child."
+},
+{
+"n": 39,
+"start": 137.503468,
+"s0": 137.503468,
+"s1": 140.276163,
+"text": "Filene's in Boston said pink for boys."
+},
+{
+"n": 40,
+"start": 140.276163,
+"s0": 140.276163,
+"s1": 145.89451300000002,
+"text": "So did Marshall Field's in Chicago, Best and Company in New York, and Halle Brothers in Cleveland."
+},
+{
+"n": 41,
+"start": 145.89451300000002,
+"s0": 145.89451300000002,
+"s1": 147.918713,
+"text": "Other stores said the opposite."
+},
+{
+"n": 42,
+"start": 147.918713,
+"s0": 147.918713,
+"s1": 151.373663,
+"text": "Imagine being a new parent in nineteen twenty seven."
+},
+{
+"n": 43,
+"start": 151.373663,
+"s0": 151.373663,
+"s1": 154.004063,
+"text": "You buy a pink outfit for your son in Chicago,"
+},
+{
+"n": 44,
+"start": 154.004063,
+"s0": 154.004063,
+"s1": 156.005313,
+"text": "visit your sister in another city,"
+},
+{
+"n": 45,
+"start": 156.005313,
+"s0": 156.005313,
+"s1": 158.898913,
+"text": "and her local store tells you that you got it backwards."
+},
+{
+"n": 46,
+"start": 158.898913,
+"s0": 158.898913,
+"s1": 162.777963,
+"text": "Historians still argue about how common each version was."
+},
+{
+"n": 47,
+"start": 162.777963,
+"s0": 162.777963,
+"s1": 167.98056300000002,
+"text": "One study of old newspapers found both versions printed side by side for decades."
+},
+{
+"n": 48,
+"start": 167.98056300000002,
+"s0": 167.98056300000002,
+"s1": 170.949963,
+"text": "The honest answer is that there was no rule."
+},
+{
+"n": 49,
+"start": 170.949963,
+"s0": 170.949963,
+"s1": 173.867626,
+"text": "There were stores, and each store had a guess."
+},
+{
+"n": 50,
+"start": 174.467626,
+"s0": 174.467626,
+"s1": 178.000111,
+"text": "Somewhere in the middle of the twentieth century, the guesses settled."
+},
+{
+"n": 51,
+"start": 178.000111,
+"s0": 178.000111,
+"s1": 179.657006,
+"text": "Pink went to girls."
+},
+{
+"n": 52,
+"start": 179.657006,
+"s0": 179.657006,
+"s1": 181.456901,
+"text": "Blue went to boys."
+},
+{
+"n": 53,
+"start": 181.456901,
+"s0": 181.456901,
+"s1": 183.04079099999998,
+"text": "No law was passed."
+},
+{
+"n": 54,
+"start": 183.04079099999998,
+"s0": 183.04079099999998,
+"s1": 185.031876,
+"text": "No scientist proved anything."
+},
+{
+"n": 55,
+"start": 185.031876,
+"s0": 185.031876,
+"s1": 190.613476,
+"text": "Manufacturers and stores simply kept repeating the same pairing until it felt like nature."
+},
+{
+"n": 56,
+"start": 190.613476,
+"s0": 190.613476,
+"s1": 195.35082599999998,
+"text": "In the nineteen fifties, pink became the color of grown up femininity too."
+},
+{
+"n": 57,
+"start": 195.35082599999998,
+"s0": 195.35082599999998,
+"s1": 200.445776,
+"text": "When Mamie Eisenhower wore a pink gown to her husband's inauguration in nineteen fifty three,"
+},
+{
+"n": 58,
+"start": 200.445776,
+"s0": 200.445776,
+"s1": 202.010626,
+"text": "the press loved it,"
+},
+{
+"n": 59,
+"start": 202.010626,
+"s0": 202.010626,
+"s1": 207.708326,
+"text": "and soon there were pink kitchens, pink bathrooms, and pink appliances in American homes."
+},
+{
+"n": 60,
+"start": 207.708326,
+"s0": 207.708326,
+"s1": 211.60967599999998,
+"text": "The baby boom generation grew up color coded from the crib."
+},
+{
+"n": 61,
+"start": 211.60967599999998,
+"s0": 211.60967599999998,
+"s1": 213.823926,
+"text": "Boys in blue, girls in pink,"
+},
+{
+"n": 62,
+"start": 213.823926,
+"s0": 213.823926,
+"s1": 216.916564,
+"text": "and every relative knew exactly what gift to bring."
+},
+{
+"n": 63,
+"start": 217.516564,
+"s0": 217.516564,
+"s1": 219.747979,
+"text": "Then something strange happened."
+},
+{
+"n": 64,
+"start": 219.747979,
+"s0": 219.747979,
+"s1": 223.65142899999998,
+"text": "In the late sixties and seventies, many parents rejected it."
+},
+{
+"n": 65,
+"start": 223.65142899999998,
+"s0": 223.65142899999998,
+"s1": 228.647914,
+"text": "The women's movement pushed back against the idea that girls had to look soft and sweet."
+},
+{
+"n": 66,
+"start": 228.647914,
+"s0": 228.647914,
+"s1": 230.57726399999999,
+"text": "Unisex clothes took over."
+},
+{
+"n": 67,
+"start": 230.57726399999999,
+"s0": 230.57726399999999,
+"s1": 234.46156399999998,
+"text": "Overalls, stripes, red, yellow, green."
+},
+{
+"n": 68,
+"start": 234.46156399999998,
+"s0": 234.46156399999998,
+"s1": 241.441614,
+"text": "Reportedly, for two whole years in the seventies, the Sears catalog didn't show a single pink toddler outfit."
+},
+{
+"n": 69,
+"start": 241.441614,
+"s0": 241.441614,
+"s1": 244.289664,
+"text": "For a moment, it looked like the rule was dying,"
+},
+{
+"n": 70,
+"start": 244.289664,
+"s0": 244.289664,
+"s1": 247.243877,
+"text": "and that kids might go back to being just kids."
+},
+{
+"n": 71,
+"start": 247.843877,
+"s0": 247.843877,
+"s1": 249.363127,
+"text": "It wasn't dying."
+},
+{
+"n": 72,
+"start": 249.363127,
+"s0": 249.363127,
+"s1": 252.699082,
+"text": "In the nineteen eighties, prenatal tests became common,"
+},
+{
+"n": 73,
+"start": 252.699082,
+"s0": 252.699082,
+"s1": 257.100532,
+"text": "and parents could learn whether it was a boy or a girl months before the birth."
+},
+{
+"n": 74,
+"start": 257.100532,
+"s0": 257.100532,
+"s1": 259.437977,
+"text": "That gave stores something new to sell:"
+},
+{
+"n": 75,
+"start": 259.437977,
+"s0": 259.437977,
+"s1": 260.479427,
+"text": "time."
+},
+{
+"n": 76,
+"start": 260.479427,
+"s0": 260.479427,
+"s1": 264.586677,
+"text": "Now you could shop for a specific kind of baby before it arrived."
+},
+{
+"n": 77,
+"start": 264.586677,
+"s0": 264.586677,
+"s1": 266.503177,
+"text": "And the industry noticed."
+},
+{
+"n": 78,
+"start": 266.503177,
+"s0": 266.503177,
+"s1": 268.818827,
+"text": "Neutral clothes started to disappear."
+},
+{
+"n": 79,
+"start": 268.818827,
+"s0": 268.818827,
+"s1": 272.141677,
+"text": "A plain blue romper suddenly had a little football on it."
+},
+{
+"n": 80,
+"start": 272.141677,
+"s0": 272.141677,
+"s1": 274.81917699999997,
+"text": "A plain pink one got a bow and a kitten."
+},
+{
+"n": 81,
+"start": 274.81917699999997,
+"s0": 274.81917699999997,
+"s1": 277.44237699999996,
+"text": "And pink spread far beyond clothes."
+},
+{
+"n": 82,
+"start": 277.44237699999996,
+"s0": 277.44237699999996,
+"s1": 279.512827,
+"text": "Strollers. Car seats."
+},
+{
+"n": 83,
+"start": 279.512827,
+"s0": 279.512827,
+"s1": 281.980377,
+"text": "Bottles. Bedding. Wallpaper."
+},
+{
+"n": 84,
+"start": 281.980377,
+"s0": 281.980377,
+"s1": 285.428127,
+"text": "Historian Jo Paoletti put the logic in one line."
+},
+{
+"n": 85,
+"start": 285.428127,
+"s0": 285.428127,
+"s1": 288.82993999999997,
+"text": "The more you individualize clothing, the more you can sell."
+},
+{
+"n": 86,
+"start": 289.42994,
+"s0": 289.42994,
+"s1": 293.851145,
+"text": "By the two thousands, the split covered almost everything a child could touch."
+},
+{
+"n": 87,
+"start": 293.851145,
+"s0": 293.851145,
+"s1": 296.97225499999996,
+"text": "Toy stores had a pink aisle and a blue aisle."
+},
+{
+"n": 88,
+"start": 296.97225499999996,
+"s0": 296.97225499999996,
+"s1": 300.08538999999996,
+"text": "Building bricks got a separate pink line for girls."
+},
+{
+"n": 89,
+"start": 300.08538999999996,
+"s0": 300.08538999999996,
+"s1": 302.29154,
+"text": "And it didn't stop at childhood."
+},
+{
+"n": 90,
+"start": 302.29154,
+"s0": 302.29154,
+"s1": 309.16514,
+"text": "In twenty fifteen, a New York City study compared nearly eight hundred products sold in a men's and a women's version."
+},
+{
+"n": 91,
+"start": 309.16514,
+"s0": 309.16514,
+"s1": 313.11179,
+"text": "On average, the women's version cost about seven percent more,"
+},
+{
+"n": 92,
+"start": 313.11179,
+"s0": 313.11179,
+"s1": 315.94149,
+"text": "often for the same item in a different color."
+},
+{
+"n": 93,
+"start": 315.94149,
+"s0": 315.94149,
+"s1": 318.71199,
+"text": "People started calling it the pink tax."
+},
+{
+"n": 94,
+"start": 318.71199,
+"s0": 318.71199,
+"s1": 325.20673999999997,
+"text": "Then, in two thousand eight, an American mother cut into a cake at a party to reveal pink frosting inside,"
+},
+{
+"n": 95,
+"start": 325.20673999999997,
+"s0": 325.20673999999997,
+"s1": 326.93444,
+"text": "and posted about it online."
+},
+{
+"n": 96,
+"start": 326.93444,
+"s0": 326.93444,
+"s1": 329.34033999999997,
+"text": "The gender reveal party was born."
+},
+{
+"n": 97,
+"start": 329.34033999999997,
+"s0": 329.34033999999997,
+"s1": 334.03049,
+"text": "Today it's a whole industry of balloons, smoke cannons and confetti,"
+},
+{
+"n": 98,
+"start": 334.03049,
+"s0": 334.03049,
+"s1": 337.70419,
+"text": "all built on one question: pink or blue?"
+},
+{
+"n": 99,
+"start": 338.30419,
+"s0": 338.30419,
+"s1": 340.230595,
+"text": "Here's the quiet genius of it."
+},
+{
+"n": 100,
+"start": 340.230595,
+"s0": 340.230595,
+"s1": 343.8576,
+"text": "A white dress could go from a big sister to a little brother."
+},
+{
+"n": 101,
+"start": 343.8576,
+"s0": 343.8576,
+"s1": 345.66572,
+"text": "A pink stroller can't."
+},
+{
+"n": 102,
+"start": 345.66572,
+"s0": 345.66572,
+"s1": 347.257555,
+"text": "Not easily, anyway."
+},
+{
+"n": 103,
+"start": 347.257555,
+"s0": 347.257555,
+"s1": 352.20304,
+"text": "Most parents feel a small pinch of awkwardness pushing their son in something bright pink,"
+},
+{
+"n": 104,
+"start": 352.20304,
+"s0": 352.20304,
+"s1": 354.56269,
+"text": "and that small pinch is enough."
+},
+{
+"n": 105,
+"start": 354.56269,
+"s0": 354.56269,
+"s1": 359.01129000000003,
+"text": "A second child of the other sex now means a second set of everything."
+},
+{
+"n": 106,
+"start": 359.01129000000003,
+"s0": 359.01129000000003,
+"s1": 361.26329,
+"text": "Nobody ever told you to buy twice."
+},
+{
+"n": 107,
+"start": 361.26329,
+"s0": 361.26329,
+"s1": 365.15764,
+"text": "They just painted the first set a color that made reusing it feel wrong."
+},
+{
+"n": 108,
+"start": 365.15764,
+"s0": 365.15764,
+"s1": 367.21229,
+"text": "And the rule teaches itself."
+},
+{
+"n": 109,
+"start": 367.21229,
+"s0": 367.21229,
+"s1": 370.96749,
+"text": "Kids learn it from the aisles, from the gifts, from the cake."
+},
+{
+"n": 110,
+"start": 370.96749,
+"s0": 370.96749,
+"s1": 374.17994,
+"text": "By the age of four, many of them will police it for you."
+},
+{
+"n": 111,
+"start": 374.17994,
+"s0": 374.17994,
+"s1": 378.80669,
+"text": "Every time a store builds a pink aisle and a blue aisle, the rule gets taught again,"
+},
+{
+"n": 112,
+"start": 378.80669,
+"s0": 378.80669,
+"s1": 381.69356500000004,
+"text": "to a new set of parents who think they're choosing freely."
+},
+{
+"n": 113,
+"start": 382.293565,
+"s0": 382.293565,
+"s1": 387.42447500000003,
+"text": "A hundred years ago, a magazine told parents that pink was strong enough for a boy."
+},
+{
+"n": 114,
+"start": 387.42447500000003,
+"s0": 387.42447500000003,
+"s1": 391.356525,
+"text": "Today, the same color is supposed to be too soft for him."
+},
+{
+"n": 115,
+"start": 391.356525,
+"s0": 391.356525,
+"s1": 393.151365,
+"text": "The color never changed."
+},
+{
+"n": 116,
+"start": 393.151365,
+"s0": 393.151365,
+"s1": 395.176765,
+"text": "Only the story around it did."
+},
+{
+"n": 117,
+"start": 395.176765,
+"s0": 395.176765,
+"s1": 398.852165,
+"text": "So the next time someone asks, is it a boy or a girl,"
+},
+{
+"n": 118,
+"start": 398.852165,
+"s0": 398.852165,
+"s1": 401.297515,
+"text": "notice what the question really means:"
+},
+{
+"n": 119,
+"start": 401.297515,
+"s0": 401.297515,
+"s1": 403.331215,
+"text": "which aisle are we shopping in?"
+},
+{
+"n": 120,
+"start": 403.331215,
+"s0": 403.331215,
+"s1": 404.811065,
+"text": "Made to Want."
+}
+]
